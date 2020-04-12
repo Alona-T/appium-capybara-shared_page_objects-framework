@@ -13,8 +13,8 @@ This framework can be used by QA Engineers for testing Native Mobile apps with a
  - Clone the project
  - Do ```bundle install```
  - For running tests you can use rake tasks - as example
- ```rake run_tests[android]``` - for Android platform
- ```rake run_tests[ios]``` - for iOS platform
+ - ```rake run_tests[android]```for Android platform
+ - ```rake run_tests[ios]```for iOS platform
  
  - to view Allure report do ```allure serve```
  
