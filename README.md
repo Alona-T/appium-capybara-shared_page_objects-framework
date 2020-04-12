@@ -12,7 +12,7 @@ This framework can be used by QA Engineers for testing Native Mobile apps with a
 # How to start 
  - Clone the project
  - Do ```bundle install```
- - In Congig/ folder change the app path to your path (apps are attached to the root of this project)
+ - In Config/ folder change the app path to your path (apps are attached to the root of this project)
  - For running tests you can use rake tasks - as example
  - ```rake run_tests[android]```for Android platform
  - ```rake run_tests[ios]```for iOS platform
