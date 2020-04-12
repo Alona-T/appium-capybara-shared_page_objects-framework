@@ -1,7 +1,7 @@
 [caps]
 
 platformName = "iOS"
-app = "/Users/alonatupchei/Projects/Personal/appium-mobile-capybara-rspec-ruby-framework/spec/data/UICatalog.app"
+app = ""
 platformVersion = "13.3"
 automationName = 'XCUITest'
 locationServicesAuthorized = true

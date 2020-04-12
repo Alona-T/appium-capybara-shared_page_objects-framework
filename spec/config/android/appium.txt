@@ -4,7 +4,7 @@ deviceName = "emulator-5554"
 automationName = "UiAutomator2"
 platformName = "Android"
 systemPort = 8200
-app = "/Users/alonatupchei/Projects/Personal/appium-mobile-capybara-rspec-ruby-framework/spec/data/TestApp.apk"
+app = ""
 autoGrantPermissions = true
 
 [appium_lib]
