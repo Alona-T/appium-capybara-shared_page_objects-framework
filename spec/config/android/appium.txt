@@ -1,0 +1,15 @@
+[caps]
+
+deviceName = "emulator-5554"
+automationName = "UiAutomator2"
+platformName = "Android"
+systemPort = 8200
+app = "/Users/alonatupchei/Projects/Personal/appium-mobile-capybara-rspec-ruby-framework/spec/data/TestApp.apk"
+autoGrantPermissions = true
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
+server_url = "http://localhost:4723/wd/hub"
+wait = 20
+newCommandTimeout = 60
