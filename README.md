@@ -6,7 +6,6 @@ This framework can be used by QA Engineers for testing Native Mobile apps with a
  - appium-capybara (https://github.com/appium/appium_capybara)
  - Page Object model
  - Shared classes between Android and iOS
- - Screenshot capture for tests that failed
  - Allure Report
 
 # How to start 
